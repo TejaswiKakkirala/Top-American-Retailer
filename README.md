@@ -1,5 +1,5 @@
 # Top-American-Retailer
-1) About the Dataset
+1) About the Dataset:
 The dataset consists of customer transactions from an e-commerce platform in Brazil.
 The analysis is performed using SQL queries on various tables like:
 customers (customer details)
@@ -11,7 +11,7 @@ Total Coverage:
 27 states
 4,119 cities
 Growing monthly order trends over the years.
-2) Insights from the Project
+2) Insights from the Project:
 E-commerce Order Trends
 Monthly Seasonality: Orders peak in August, May, and July.
 Order Timing: Most orders are placed in the afternoon, fewer in dawn hours.
